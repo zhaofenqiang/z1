@@ -1,5 +1,6 @@
-###移植yolo2到caffe框架过程中用到的一些关键文件
-　
+移植yolo2到caffe框架过程中用到的一些关键文件
+--------
+
  0. [yolo-in-caffe源码](https://github.com/hustzxd/yolo2_in_caffe)</br>
  1. [yolo.prototxt](https://github.com/hustzxd/yolo2_to_caffe_tool/blob/master/yolo.prototxt)  
 yolo2的网络配置文件，对应着darknet中的[yolo.cfg](https://github.com/pjreddie/darknet/blob/master/cfg/yolo.cfg)编写
